@@ -1,0 +1,2 @@
+# quickstart
+A minimal template
